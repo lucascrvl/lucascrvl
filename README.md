@@ -1,4 +1,4 @@
-## Hi there 👋
+#![https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cifraclub.com.br%2Fmc-nego-bam%2F&psig=AOvVaw0lixJ678IaFzZR3Z0v8xgb&ust=1722688577456000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCNjl35ep1ocDFQAAAAAdAAAAABAE](link)
 
 <!--
 **lucascrvl/lucascrvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](link)
+
